@@ -66,9 +66,9 @@
 
 /* Blynk Configuration ---------------------------------------------------- */
 // Enter your Auth Token, WiFi credentials, and Blynk server details
-char auth[] = "ExiV5MzEHU4bSZvsinkK_T2n6xqyjIVS"; // Get this from Blynk app
-char ssid[] = "******";
-char pass[] = "******";
+char auth[] = "YOUR_BLYNK_AUTH_TOKEN"; // Get this from Blynk app
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // Blynk Virtual Pins
 #define PARKING1_LED V0  // Virtual pin for Parking 1 LED
