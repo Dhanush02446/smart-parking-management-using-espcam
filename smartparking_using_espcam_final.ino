@@ -5,9 +5,9 @@
 
 // Blynk Libraries
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL3aRWt7DMU"
-#define BLYNK_TEMPLATE_NAME "Smart parking"
-#define BLYNK_AUTH_TOKEN "ExiV5MzEHU4bSZvsinkK_T2n6xqyjIVS"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
