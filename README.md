@@ -3,7 +3,7 @@ This project is a smart parking management system built using an ESP32-CAM and T
 It detects whether parking slots are occupied or free using a camera and shows the status live on a Blynk IoT dashboard.
 The system uses image-based detection instead of multiple physical sensors, making it a low-cost and scalable solution.
 
-How It Works
+How It Works..
 1. The ESP32-CAM captures images of the parking area.
 2. A machine learning model trained using Edge Impulse runs directly on the device.
 3. The model detects visual markers:
